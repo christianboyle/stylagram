@@ -1,4 +1,4 @@
-React Styled Components Tutorial by Yomi Eluwande [[Source]](https://www.robinwieruch.de/react-styled-components)
+React Styled Components Tutorial by Yomi Eluwande [[source](https://www.robinwieruch.de/react-styled-components)]
 
 -------------------------------
 
