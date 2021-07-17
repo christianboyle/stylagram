@@ -40,6 +40,7 @@ const ImgMeta = styled.div`
 const Img = styled.img`
   cursor: pointer;
   width: 100%;
+  display: flex;
 `
 
 function Image (props) {
